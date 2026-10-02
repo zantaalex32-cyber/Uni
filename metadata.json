@@ -1,0 +1,7 @@
+{
+  "name": "Zanta Campus",
+  "description": "Intelligent university navigation, timetable, live-class, attendance, and academic analytics platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
